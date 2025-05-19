@@ -6,7 +6,7 @@ import sys
 from camel.typing import ModelType
 from talkse.chat_chain import ChatChain
 
-# ----------------------------------------
+# --------------------------------------
 print("__file:  " + __file__)
 # root 为当前脚本run.py的目录路径
 root = os.path.dirname(__file__)
